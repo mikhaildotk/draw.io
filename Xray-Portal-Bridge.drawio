@@ -44,11 +44,6 @@
         <mxCell id="2mHUGmnxwJs71J8LvA5L-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2mHUGmnxwJs71J8LvA5L-33" target="2mHUGmnxwJs71J8LvA5L-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2mHUGmnxwJs71J8LvA5L-41" value="interconn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2mHUGmnxwJs71J8LvA5L-36">
-          <mxGeometry x="0.0345" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2mHUGmnxwJs71J8LvA5L-33" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;NGINX SSL &lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;127.0.0.1:44300&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="415" width="120" height="45" as="geometry" />
         </mxCell>
