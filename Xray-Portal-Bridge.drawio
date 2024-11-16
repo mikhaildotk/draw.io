@@ -19,13 +19,13 @@
         <mxCell id="2mHUGmnxwJs71J8LvA5L-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
           <mxGeometry x="680" y="162.5" width="100" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="2mHUGmnxwJs71J8LvA5L-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mHUGmnxwJs71J8LvA5L-13" target="2mHUGmnxwJs71J8LvA5L-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2mHUGmnxwJs71J8LvA5L-13" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2mHUGmnxwJs71J8LvA5L-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2mHUGmnxwJs71J8LvA5L-24" value="NGINX&amp;nbsp; 0.0.0.0:443" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2mHUGmnxwJs71J8LvA5L-24" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;h1 dir=&quot;auto&quot; class=&quot;heading-element&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;TLS SNI routing&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;NGINX&amp;nbsp; 0.0.0.0:443&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
